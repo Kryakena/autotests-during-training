@@ -1,4 +1,4 @@
-Autotests-during-training
+Autotests
 
 1. Автотест на заполнение формы guru.qahacking.ru (PyCharm Community Edition 2023.1.4)
       https://guru.qahacking.ru/ - источник
